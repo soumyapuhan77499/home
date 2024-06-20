@@ -1,0 +1,24 @@
+section_01: [
+    name: "Banner",
+    id: 1,
+    data: [
+        {
+            "id": 2,
+            "banner_img": "1718014622.png",
+            "title_text": "title",
+            "alt_text": "alt",
+            "created_at": "2024-06-10T04:47:02.000000Z",
+            "updated_at": "2024-06-10T07:37:13.000000Z",
+            "banner_img_url": "http://panditapp.mandirparikrama.com/uploads/banner1718014622.png"
+        },
+        {
+            "id": 2,
+            "banner_img": "1718014622.png",
+            "title_text": "title",
+            "alt_text": "alt",
+            "created_at": "2024-06-10T04:47:02.000000Z",
+            "updated_at": "2024-06-10T07:37:13.000000Z",
+            "banner_img_url": "http://panditapp.mandirparikrama.com/uploads/banner1718014622.png"
+        }
+    ]
+]
