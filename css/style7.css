@@ -170,6 +170,11 @@ section .container .card-inner .box .icon .iconBox span {
   /* padding: 2rem 1rem; */
   height: 431px;
 }
+.fa {
+  font-size: 31px !important;
+  margin-right: 17px;
+ 
+}
 
 .footer .container {
   display: grid;
