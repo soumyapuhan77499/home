@@ -236,6 +236,16 @@ section .container .card-inner:hover .iconBox {
   .d-flex.y-gap-10.flex-column {
     gap: 0.5rem;
   }
+  .footer {
+    background-image: url('../img/footer.png');
+    background-repeat: no-repeat;
+    /* background-position: top left; */
+    background-size: cover;
+    /* background-position: center; */
+    width: 100%;
+    padding: 2rem 1rem;
+    height: 1000px;
+}
 }
 
 @media (max-width: 480px) {
@@ -255,4 +265,43 @@ section .container .card-inner:hover .iconBox {
   .d-flex.y-gap-10.flex-column {
     gap: 0.25rem;
   }
+  .footer {
+    background-image: url('../img/footer.png');
+    background-repeat: no-repeat;
+    /* background-position: top left; */
+    background-size: cover;
+    /* background-position: center; */
+    width: 100%;
+    padding: 2rem 1rem;
+    height: 1000px;
 }
+}
+
+@media (max-width: 500px) {
+  
+  .footer {
+    background-image: url('../img/footer.png');
+    background-repeat: no-repeat;
+    /* background-position: top left; */
+    background-size: cover;
+    /* background-position: center; */
+    width: 100%;
+    padding: 2rem 1rem;
+    /* height: 1000px; */
+}
+}
+
+@media (max-width: 420px) {
+  
+  .footer {
+    background-image: url('../img/footer.png');
+    background-repeat: no-repeat;
+    /* background-position: top left; */
+    background-size: cover;
+    /* background-position: center; */
+    width: 100%;
+    padding: 2rem 1rem;
+    height: 1000px;
+}
+}
+
