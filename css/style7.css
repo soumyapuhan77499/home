@@ -160,14 +160,15 @@ section .container .card-inner .box .icon .iconBox span {
   color: #fff;
   font-size: 1.5rem;
 }
-
 .footer {
   background-image: url('../img/footer.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  /* background-repeat: no-repeat; */
+  background-position: top left;
+  /* background-size: cover; */
+  /* background-position: center; */
   width: 100%;
-  padding: 2rem 1rem;
+  /* padding: 2rem 1rem; */
+  height: 431px;
 }
 
 .footer .container {
